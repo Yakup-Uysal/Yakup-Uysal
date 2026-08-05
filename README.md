@@ -3,8 +3,7 @@
 ### About Me
 '''yaml
 name: Mehmet Yakup Uysal
-education: Bachelor of Science in Material Science & Engineering @ UIUC
-'''
+education: Bachelor of Science in Material Science & Engineering @ UIUCd
 
 field of interests:
 {
@@ -12,6 +11,6 @@ Mechatronics
 }
 
 ### Connect With Me
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"&link=https://www.linkedin.com/in/nagha-akshayaa/)](https://www.linkedin.com/in/nagha-akshayaa/)
-[![Gmail Badge](https://img.shields.io/badge/-naghaakshayaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naghaakshayaa@gmail.com)](mailto:naghaakshayaa@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"&link=https://https://www.linkedin.com/in/yakup-uysal/)](https://www.linkedin.com/in/yakup-uysal/)
+[![Gmail Badge](https://img.shields.io/badge/-myakupuysal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myakupuysal@gmail.com)](mailto:myakupuysal@gmail.com)
 
